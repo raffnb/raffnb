@@ -21,10 +21,11 @@ Tecnologias e Ferramentas
  
  </div>
  
-<div id="sfc2h9h5x5ls7ufge4a1mnspf1nac3uhfc7"></div>
-
-<br><a href="https://www.contadorvisitasgratis.com">Contador de Visitas</a><noscript><a href="https://www.contadorvisitasgratis.com" title="contadores gratis"><img src="https://counter5.optistats.ovh/private/contadorvisitasgratis.php?c=2h9h5x5ls7ufge4a1mnspf1nac3uhfc7" border="0" title="contadores gratis" alt="contadores gratis"></a></noscript>
  
+ CONTADOR DE VISITAS
+<a href="https://www.contadorvisitasgratis.com" title="contadores gratis"><img src="https://counter5.optistats.ovh/private/contadorvisitasgratis.php?c=2h9h5x5ls7ufge4a1mnspf1nac3uhfc7" border="0" title="contadores gratis" alt="contadores gratis"></a>
+
+
  
  
 
