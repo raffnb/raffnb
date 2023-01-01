@@ -22,8 +22,11 @@ Tecnologias e Ferramentas
  </div>
  
  
- CONTADOR DE VISITAS
-<a href="https://www.contadorvisitasgratis.com" title="contadores gratis"><img src="https://counter5.optistats.ovh/private/contadorvisitasgratis.php?c=2h9h5x5ls7ufge4a1mnspf1nac3uhfc7" border="0" title="contadores gratis" alt="contadores gratis"></a>
+ 
+<!-- Contador de visitas -->
+<center><a href="https://websmultimedia.com/contador-de-visitas-gratis" title="Contador De Visitas Gratis">
+<img style="border: 0px solid; display: inline;" alt="contador de visitas" src="https://websmultimedia.com/contador-de-visitas.php?id=7988"></a><br><a href='https://websmultimedia.com/contador-de-visitas-gratis'>Contador de visitas</a><br><a href='http://boxindian.com/'></a></center>
+<!-- Fin Contador de visitas -->
 
 
  
