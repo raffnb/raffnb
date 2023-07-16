@@ -3,7 +3,7 @@
 - 👯 Buscando minha oportunidade na área da programação. 
 - 🔭 Hoje eu trabalho como Coordenador de produção.
 - 📚 Conhecimento em HTML, CSS e Wordpress.
-- 🌱 Estudando Javacript. Terminei em 2021 minha graduação em Gestão de produção industrial.
+- 🌱 Estudando Javascript. Terminei em 2021 minha graduação em Gestão de produção industrial.
 - 🌱 Cursando  minha segunda graduação em Analise e desenvolvimento de Sistemas pela Estácio. 😄
 - 📫 Linkedin - https://www.linkedin.com/in/rafael-de-souza-2876b9187/
 - 😄 Pronouns: ele/dele.
